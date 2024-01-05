@@ -12,7 +12,7 @@ senha = document.formLogin.txtSenha.value;
    //window.alert(senha + ' e ' + login);
 
 
-    if (login == 'jeff' && senha == 'jeff123') {
+    if (login == 'jefferson' && senha == '123') {
         location.href = 'pagina.html';
         window.alert('Logado com sucesso!');
 
